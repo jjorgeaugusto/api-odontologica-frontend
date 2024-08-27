@@ -22,13 +22,13 @@ Este é o repositório do frontend da aplicação API Odontológica, desenvolvid
 1. **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/usuario/apiodontologica-frontend.git
+    git clone https://github.com/usuario/api-odontologica-frontend.git
     ```
 
 2. **Navegue até o diretório do projeto:**
 
     ```bash
-    cd apiodontologica-frontend
+    cd api-odontologica-frontend
     ```
 
 3. **Instale as dependências:**
